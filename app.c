@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
     hacim=(pi*r*r*h)/3.0;
 	printf("hacim = %f cm kuptur",hacim);
 	
-	
+	//kodda yapilan degisim satiri
 	
 	return 0;
 }
